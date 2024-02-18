@@ -11447,7 +11447,9 @@ footer .widget_recent_post li a {
 footer .widget h5 {
     margin-bottom: 20px;
 }
-
+.footerEmail{
+    font-size: 5px;
+}
 footer .widget_list li {
     padding: 0 0 10px 0;
     margin: 0;
