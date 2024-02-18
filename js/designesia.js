@@ -1,5 +1,5 @@
  /* --------------------------------------------------
-  * Â© Copyright 2023 - Bharghav Self Drive Cars by Designesia
+  * Â© Copyright 2023 - Bharghav Self Drive Cars - Vijaywada by Designesia
   * --------------------------------------------------*/
 (function($) {
     'use strict';
